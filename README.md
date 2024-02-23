@@ -2,7 +2,11 @@ Title: ConsoleApplication1\
 Description: First Project using C++. Top-down adventure.\
 Author: Caden Metzgus\
 Created: 10/27/2017\
-Platform: Windows
+Platform: Windows\
+Controls:\
+Arrow Keys - Movement\
+Space - Interact\
+I - Inventory
 
 ---
 
@@ -15,7 +19,7 @@ NPC with a quest to find his lost ${\color{#FF00FF}Piggie\ Slipper}$.\
 Once you have obtained a pickaxe, you can mine ore.\
 ![image](https://github.com/Cadexcy23/ConsoleApplication1/assets/51723869/ae4dcd8a-551d-4a8a-83c5-7d42c7b274d3)
 
-Take your ore to the furnace to smelt it up.\
+Smelt ore at the furnace.\
 ![image](https://github.com/Cadexcy23/ConsoleApplication1/assets/51723869/60a59c1e-8d36-444f-8f72-762dc7f7e006)
 
 Take those bars to the anvil and craft some gear. (combat not included)\
