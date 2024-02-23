@@ -4,9 +4,9 @@ Author: Caden Metzgus\
 Created: 10/27/2017\
 Platform: Windows\
 Controls:\
-Arrow Keys - Movement\
-Space - Interact\
-I - Inventory
+  Arrow Keys - Movement\
+  Space - Interact\
+  I - Inventory
 
 ---
 
