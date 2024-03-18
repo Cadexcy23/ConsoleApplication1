@@ -1,15 +1,15 @@
-Title: ConsoleApplication1\
+# ConsoleApplication1
 Description: First Project using C++. Top-down adventure.\
 Author: Caden Metzgus\
 Created: 10/27/2017\
 Platform: Windows\
-Controls:\
+
+## Controls
 Arrow Keys - Movement\
 Space - Interact\
 I - Inventory
 
----
-
+## In-game
 Top-down view of the map with the ability to move and interact.\
 ![ConsoleApplication1](https://github.com/Cadexcy23/ConsoleApplication1/assets/51723869/ca3b89d1-b02f-41d6-8a56-ba3673f1fe10)
 
